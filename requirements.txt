@@ -7,3 +7,5 @@ Sastrawi
 nltk
 requests
 joblib
+matplotlib
+plotly
