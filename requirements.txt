@@ -1,7 +1,6 @@
 streamlit
-gensim
 pandas
-numpy
+gensim==4.3.2
 scikit-learn
 PySastrawi
 nltk
@@ -9,3 +8,4 @@ requests
 joblib
 matplotlib
 plotly
+numpy
