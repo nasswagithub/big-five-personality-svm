@@ -10,6 +10,9 @@ import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 import numpy as np
 import plotly.express as px
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
 
 st.set_page_config(page_title="Tes Big Five Personality", layout="centered")
 
